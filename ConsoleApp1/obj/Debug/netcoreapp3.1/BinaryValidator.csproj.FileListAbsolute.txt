@@ -1,0 +1,13 @@
+D:\Research\Validator\Validator\ConsoleApp1\bin\Debug\netcoreapp3.1\BinaryValidator.exe
+D:\Research\Validator\Validator\ConsoleApp1\bin\Debug\netcoreapp3.1\BinaryValidator.deps.json
+D:\Research\Validator\Validator\ConsoleApp1\bin\Debug\netcoreapp3.1\BinaryValidator.runtimeconfig.json
+D:\Research\Validator\Validator\ConsoleApp1\bin\Debug\netcoreapp3.1\BinaryValidator.runtimeconfig.dev.json
+D:\Research\Validator\Validator\ConsoleApp1\bin\Debug\netcoreapp3.1\BinaryValidator.dll
+D:\Research\Validator\Validator\ConsoleApp1\bin\Debug\netcoreapp3.1\BinaryValidator.pdb
+D:\Research\Validator\Validator\ConsoleApp1\obj\Debug\netcoreapp3.1\BinaryValidator.csprojAssemblyReference.cache
+D:\Research\Validator\Validator\ConsoleApp1\obj\Debug\netcoreapp3.1\BinaryValidator.csproj.CoreCompileInputs.cache
+D:\Research\Validator\Validator\ConsoleApp1\obj\Debug\netcoreapp3.1\BinaryValidator.AssemblyInfoInputs.cache
+D:\Research\Validator\Validator\ConsoleApp1\obj\Debug\netcoreapp3.1\BinaryValidator.AssemblyInfo.cs
+D:\Research\Validator\Validator\ConsoleApp1\obj\Debug\netcoreapp3.1\BinaryValidator.dll
+D:\Research\Validator\Validator\ConsoleApp1\obj\Debug\netcoreapp3.1\BinaryValidator.pdb
+D:\Research\Validator\Validator\ConsoleApp1\obj\Debug\netcoreapp3.1\BinaryValidator.genruntimeconfig.cache
